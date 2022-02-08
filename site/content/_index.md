@@ -13,6 +13,6 @@ products:
       text: "For Developers: There is no shame in not having news to announce. Even as a developer in the Crypto space you need a day off. You too can post a NF-TV in response and announce with joy: NO NEWS NETWORK has heard your community and there are no news to announce."
 values:
     heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+    text: Out of 31 million possible combinations, we have created 5000 unique NF-TVs for you! Go ahead and get your own TV as an NFT on the Solana Blockchain. For only 0.05 SOL you will be able to receive NO NEWS or show everyone that you have No NEWS available today.
 ---
 
