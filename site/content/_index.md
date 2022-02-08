@@ -8,7 +8,7 @@ intro:
     text: "Maybe not all are dead! But development and marketing take time and to shorten the waiting, NO NEWS NETWORK offers you your own NF-TV. With a comfortably designed living room, beautiful plants, colorful carpets and with a little luck a fresh bottle of Hopium, right at your fingertips."
 products:
     - image: img/217.jpg
-      text: "For Community Memeber: Maybe you are ready to send a friendly reminder to your favorite crypto project that their community is eagerly waiting to receive important and great news. Post your NF-TV to their Discord or send one directly to a core developer to draw their attention to the current lack of information."
+      text: "For Community Member: Maybe you are ready to send a friendly reminder to your favorite crypto project that their community is eagerly waiting to receive important and great news. Post your NF-TV to their Discord or send one directly to a core developer to draw their attention to the current lack of information."
     - image: /img/440.jpg
       text: "For Developers: There is no shame in not having news to announce. Even as a developer in the Crypto space you need a day off. You too can post a NF-TV in response and announce with joy: NO NEWS NETWORK has heard your community and there are no news to announce."
 values:
