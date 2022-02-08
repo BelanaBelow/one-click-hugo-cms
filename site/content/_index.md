@@ -1,13 +1,13 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: "No News Network"
+subtitle: The most trusted NF-TV collection on the Solana Blockchain
+image: /img/NNN_Banner_1500x500.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: What Is Going On?!
+    text: "You may wonder why after only a few days there is no more news about your new favorite crypto project. Your investment is shrinking and you have to fear that all developers are already dead and nobody on the Internet was informed."
 intro:
-    heading: "No News Network"
-    text: "We are the most trusted Network to deliver NO NEWS"
+    heading: "We Have The Solution"
+    text: "Development and marketing take time and to shorten the waiting, NO NEWS NETWORK offers you your own NF-TV. With a comfortably designed living room, beautiful plants, colorful carpets and with a little luck a fresh bottle of Hopium, right at your fingertips."
 products:
     - image: img/illustrations-coffee.svg
       text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
