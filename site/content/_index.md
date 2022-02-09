@@ -1,7 +1,7 @@
 ---
 image: /img/NNN_Banner_1500x500.jpg
 blurb:
-    heading: What Is Going On?!
+    heading: What Is Going On??!!
     text: "You may wonder. Why on earth there are no more news about your new favorite crypto project? Your investment is shrinking and you have to fear that all developers are already dead and nobody on the Internet was informed?!"
 intro:
     heading: "We Have The Solution"
